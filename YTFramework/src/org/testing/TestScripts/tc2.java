@@ -9,5 +9,6 @@ public class tc2 {
 	public void lunchurl() {
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\smrati.rai\\Desktop\\selenium\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver =new ChromeDriver();
+		C:\Users\smrati.rai\git\ytframe
 	}
 }
